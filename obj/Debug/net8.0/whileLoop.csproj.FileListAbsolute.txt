@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\bin\Debug\net8.0\whileLoop.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\bin\Debug\net8.0\whileLoop.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\bin\Debug\net8.0\whileLoop.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\bin\Debug\net8.0\whileLoop.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\bin\Debug\net8.0\whileLoop.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\refint\whileLoop.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\whileLoop.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\whileLoop\obj\Debug\net8.0\ref\whileLoop.dll
